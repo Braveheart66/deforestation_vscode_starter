@@ -15,5 +15,11 @@ __pycache__/
 
 # Build / outputs
 outputs/
+**/outputs/
 *.sqlite3
 *.log
+*.tif
+*.tif.png
+*.tiff
+thumbs/
+thumbnails/
