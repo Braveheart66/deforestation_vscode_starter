@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"name": "Lucknow_AOI"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.8500, 26.7500],
+            [80.8500, 26.9500],
+            [81.0500, 26.9500],
+            [81.0500, 26.7500],
+            [80.8500, 26.7500]
+          ]
+        ]
+      }
+    }
+  ]
+}

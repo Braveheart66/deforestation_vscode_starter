@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+.venv*/
+venv/
+.venv311/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Build / outputs
+outputs/
+*.sqlite3
+*.log

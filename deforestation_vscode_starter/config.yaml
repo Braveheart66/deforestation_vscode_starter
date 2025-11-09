@@ -1,0 +1,13 @@
+# Edit your settings
+aoi_path: "aoi.geojson"  # WGS84 polygon
+past:
+  start: "2019-01-01"
+  end:   "2019-03-31"
+present:
+  start: "2024-01-01"
+  end:   "2024-03-31"
+
+ndvi_threshold: 0.4    # fixed NDVI threshold (set null to prefer Otsu in local mode)
+cloud_prob_threshold: 40  # GEE s2cloudless (%)
+min_patch_pixels: 25
+morph_radius: 1

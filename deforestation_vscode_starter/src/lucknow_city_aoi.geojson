@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Lucknow City AOI" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.8005, 26.6803],
+            [80.8005, 27.0500],
+            [81.0800, 27.0500],
+            [81.0800, 26.6803],
+            [80.8005, 26.6803]
+          ]
+        ]
+      }
+    }
+  ]
+}
