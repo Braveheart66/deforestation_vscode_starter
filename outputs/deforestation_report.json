@@ -1,0 +1,18 @@
+{
+    "region": "AOI",
+    "past_window": [
+        "2019-01-01",
+        "2019-03-31"
+    ],
+    "present_window": [
+        "2024-01-01",
+        "2024-03-31"
+    ],
+    "forest_area_past_ha": 753.96,
+    "forest_area_present_ha": 1157.87,
+    "change_percent": 53.57,
+    "change_type": "Gain",
+    "ndvi_threshold_used": 0.4,
+    "data_source_past": "Sentinel-2",
+    "data_source_present": "Sentinel-2"
+}

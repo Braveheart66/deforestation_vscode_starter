@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Kukrail Forest, Lucknow" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.9826, 26.9128],
+            [80.9826, 26.9450],
+            [81.0255, 26.9450],
+            [81.0255, 26.9128],
+            [80.9826, 26.9128]
+          ]
+        ]
+      }
+    }
+  ]
+}

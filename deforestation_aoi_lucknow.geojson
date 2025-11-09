@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Lucknow Urban Expansion AOI" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [80.9273, 26.7811],
+            [80.9273, 26.8185],
+            [80.9825, 26.8185],
+            [80.9825, 26.7811],
+            [80.9273, 26.7811]
+          ]
+        ]
+      }
+    }
+  ]
+}
