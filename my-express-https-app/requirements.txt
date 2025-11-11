@@ -1,25 +1,23 @@
-# --- Core Earth Engine and visualization ---
+# --- Core Earth Engine and geospatial tools ---
 earthengine-api
 geemap
 leafmap
 localtileserver
 
-# --- Geo-data processing ---
+# --- Geo-data and raster tools ---
 geopandas
-shapely
-rasterio
+rasterio>=1.4.2
 fiona
+shapely
 pyproj
 scikit-image
 
-# --- Math, plotting & performance ---
+# --- Math & plotting ---
 numpy
 pandas
 matplotlib
-psutil
 
-# --- App framework ---
+# --- App framework & utilities ---
 streamlit
-
-# --- Config utilities ---
+psutil
 pyyaml
